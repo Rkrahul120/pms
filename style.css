@@ -1,0 +1,197 @@
+
+.first{
+    background-color:rgb(44, 42, 42);
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+    border-radius: 5px;
+    color: white;
+}
+.first_1{
+    padding-left: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    }
+
+input{
+    width: 300px;
+    height: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    border: none;
+}
+.second{
+    background-color:rgb(244, 238, 230);
+    height: 70px;
+    padding-left: 50px;
+    border: 1px solid rgb(125, 120, 120);
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+#parida{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:red;
+}
+ul,li{
+    display: flex;
+    align-items: center;
+    font-style: normal;
+    column-gap: 20px;
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#003853;
+}
+.third{
+    background-image:url(cable_bnr.jpg) ;
+    height: 500px;
+    background-size: cover;
+    border-radius: 5px;
+}
+#thd1{
+    color: white;
+    padding-top: 80px;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#start{
+    border: 1px solid white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 5px;
+    color: white;
+    font-size: 25px;
+}
+#start:hover{
+    background-color:rgb(201, 68, 20);
+}
+canvas{
+    height: 15px;
+    width: 60px;
+    border: 1px solid rgb(176, 167, 167);
+    background-color:#003853;
+    border-radius: 5px;
+}
+.fourth_1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.fifth{
+    background-image:url(poster.png) ;
+    background-size: cover;
+    height: 610px;
+    }
+.sixth{
+    height: 750px;
+    background-color: black;
+    border-radius: 5px;
+    flex-wrap: wrap;
+}
+#elsrvc{
+    color: yellow;
+    padding-top: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#help{
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sixth_1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.sixth_2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+#sixth_1part{
+    border: 1px solid white;
+    height: 150px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    border-radius: 200px;
+}
+#sixth_1part:hover{
+    background-color: yellow;
+    zoom: 1.01;
+}
+#sixth_2part{
+    border: 1px solid white;
+    height: 150px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    justify-content:space-around ;
+    border-radius: 200px;
+}
+
+#sixth_2part:hover{
+    background-color: yellow;
+    zoom: 1.01;
+}
+#works{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.seventh{
+    border: 1px solid black;
+    border-radius: 50px;
+    height: 80px;
+    display: flex;
+    align-items: center;
+    padding-left: 100px;
+    justify-content: space-around;
+    background-color:#Ac0028;
+    color:white;
+}
+#touchble{
+    padding: 20px;
+    border: 1px solid white;
+    border-radius: 40px;
+    column-gap: 15px;
+}
+#touchble:hover{
+    background-color: yellow;
+    zoom: 1.2;
+
+}
+#caem{
+    text-decoration: none;
+    color:white;
+}
+#caem:hover{
+    color:blue;
+}
+#caem:active{
+    color: red;
+}
+.eighth{
+    background-color: black;
+    height: 280px;
+    color: white;
+    padding-top: 5px;
+    border-radius: 10px;
+}
+#last{
+    padding-left: 20px;
+    color: white;
+}
+#last:hover{
+    color: blue;
+}
+#last:active{
+    color: red;
+}
